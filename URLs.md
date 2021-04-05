@@ -56,7 +56,7 @@ These are also published as SSHFP records in DNS.
 ## Web-based repository browser
 
 The FreeBSD project currently uses cgit as the web-based repository browser: https://cgit.freebsd.org/
-The URL of the indivirual repository is at: https://cgit.freebsd.org/${repo}/
+The URL of the individual repository is at: https://cgit.freebsd.org/${repo}/
 
 ## For Users
 
